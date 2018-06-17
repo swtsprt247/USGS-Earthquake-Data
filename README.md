@@ -15,7 +15,7 @@ The goal of this project is to visualize the earthquake data. The hope is that b
 
 # Visualizations
 
-Website
+https://swtsprt247.github.io/USGS-Earthquake-Data/
 ![Map](/images/Map.png)
 
 
