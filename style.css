@@ -22,3 +22,14 @@ html {
   margin-right: 8px;
   opacity: 0.7;
 }
+
+.jumbotron{
+  background-image:url(earthquake.jpg);
+  background-position: 0% 90%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+  margin-bottom: 0;
+  border-bottom:navy;
+  color: rgb(12, 2, 5);
+}
